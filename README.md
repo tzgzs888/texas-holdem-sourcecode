@@ -14,12 +14,16 @@
 
 ## 📖 产品简介 | 產品簡介 | Overview
 - [Overview | 产品简介（多语言）](./docs/overview-multilingual.md)
+
 🔥 Production-ready mobile poker platform (used in real projects)
+
 🔥 移动端德州扑克平台，运营级系统，运营级德州扑克代码
+
 🔥 联系获取完整源码和在线演示
 
 ## ✨ 核心功能 | Core Features
 - [功能清单（Feature List）](./docs/feature-list.md)
+
 ## 🏗️ 技术架构 | Tech Stack
 - [部署说明模板](./docs/deploy-sample.md)
 
@@ -38,8 +42,8 @@
 - 
 ## 🧩 System Modules | 系统模块 | 系統模組
 - [System Modules | 系统模块](./docs/system-modules.md)
+
 ## 📸 界面截图 | Screenshots
-|:---:|:---:|:---:|
 ![截图1](./assets/1.jpg)
 ![截图2](./assets/2.jpg)
 ![截图3](./assets/3.jpg)
