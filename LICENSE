@@ -1,0 +1,48 @@
+Commercial Proprietary License v1.0
+
+Copyright (c) 2026
+Licensor: Suzhou Yangsheng Network Technology Co., Ltd.
+Licensor (CN): 苏州阳昇网络科技有限公司
+Contact QQ: 923600105
+Contact Email: 923600105@qq.com
+
+IMPORTANT: This repository is for product presentation and business contact.
+No production source code license is granted unless a separate paid written agreement is signed.
+
+1. Definitions
+- "Software" means any source code, binaries, documents, and related materials delivered by Licensor.
+- "Licensee" means a customer who has signed a written agreement and completed payment.
+
+2. Grant for Licensed Customers Only
+Subject to a valid paid written agreement, Licensor grants Licensee a non-exclusive, non-transferable license to:
+- use the Software for internal and commercial business operations;
+- modify the Software for Licensee's own business use;
+- deploy the Software on Licensee-controlled infrastructure.
+
+3. Restrictions
+Without Licensor's prior written consent, Licensee may not:
+- resell, sublicense, distribute, or publish the Software as a standalone product;
+- redistribute source code to third parties;
+- remove copyright and ownership notices.
+
+4. No License by Public Access
+Viewing, forking, cloning, or downloading this repository does not grant any right to use proprietary production code for commercial purposes.
+
+5. Third-Party Components
+Third-party libraries/components are subject to their own licenses. Licensee is responsible for compliance.
+
+6. Warranty Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+7. Limitation of Liability
+LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES.
+
+8. Termination
+This license terminates automatically upon material breach. On termination, Licensee must stop use and destroy all copies unless required by law to retain records.
+
+9. Governing Law
+This license is governed by the laws of the People's Republic of China.
+
+10. Entire Agreement
+For licensed customers, the signed commercial agreement prevails over this repository notice in case of conflict.
+
