@@ -39,7 +39,7 @@
 ---
 ## ⚙️ Technical Highlights | 技术亮点 | 技術亮點
 - [Technical Highlights | 技术亮点](./docs/technical-highlights.md)
-- 
+
 ## 🧩 System Modules | 系统模块 | 系統模組
 - [System Modules | 系统模块](./docs/system-modules.md)
 
